@@ -1,6 +1,11 @@
 # DishCourse
 
-DishCourse is a social discussion forum built for food lovers — from everyday cooks and foodies to social media chefs and anyone who simply enjoys talking about food.
+
+<p align="center">
+  <img src="docs/images/dishcourse-home.png" alt="DishCourse Home Page" width="100%">
+</p>
+
+    DishCourse is a social discussion forum built for food lovers — from everyday cooks and foodies to social media chefs and anyone who simply enjoys talking about food.
 
 Users can create posts, share recipes and ideas, participate in conversations through comments and reactions, share media, and communicate directly with other members of the community.
 
