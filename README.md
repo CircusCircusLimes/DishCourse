@@ -1,17 +1,39 @@
 # DishCourse
 
-
 <p align="center">
   <img src="docs/images/dishcourse-home.png" alt="DishCourse Home Page" width="100%">
 </p>
 
-    DishCourse is a social discussion forum built for food lovers — from everyday cooks and foodies to social media chefs and anyone who simply enjoys talking about food.
+DishCourse is a full-stack social discussion platform built for food lovers —
+from everyday cooks and foodies to social media chefs and anyone who simply
+enjoys talking about food.
 
-Users can create posts, share recipes and ideas, participate in conversations through comments and reactions, share media, and communicate directly with other members of the community.
+Users can create public or private posts, share recipes and ideas, participate
+in conversations through comments and reactions, share media, and communicate
+directly with other members.
 
-DishCourse was developed by the **CircusCircusLimes** team as part of the **Zip Code Wilmington Data Engineering Program**.
+DishCourse was developed by the **CircusCircusLimes** team as part of the
+**Zip Code Wilmington Data Engineering Program**.
 
----
+## My Contributions
+
+As a member of the three-person CircusCircusLimes team, I contributed to the, project management, 
+development, integration, testing, and UI refinement of DishCourse.
+
+My work included:
+
+- Refactoring and enhancing the existing Flask application
+- Implementing and integrating application features
+- Supporting the migration from SQLite to MySQL
+- Working with Flask, SQLAlchemy, and the application's database layer
+- UI/UX refinement and responsive layout improvements
+- Docker-based local and server deployment
+- Git/GitHub branch, pull request, and integration workflows
+- Regression testing of the completed application
+
+This project gave me experience working collaboratively in an existing
+codebase while balancing individual feature development with team integration
+and release readiness.
 
 ## Features
 
@@ -452,16 +474,15 @@ Developed as part of the **Zip Code Wilmington Data Engineering Program**.
 
 ## Project Status
 
-### Final Demo Build — Complete
+### Completed Team Project
 
-All planned DishCourse features have been:
+The final DishCourse application was:
 
-- Developed
-- Integrated
-- Merged
+- Developed and integrated by the three-person team
 - Regression tested
 - Promoted to `main`
 - Containerized with Docker
-- Configured for the S2 server environment
+- Configured and deployed in the team's S2 server environment
 
-The final application is ready for demonstration.
+The project is preserved here as part of my software development and
+data engineering portfolio.
